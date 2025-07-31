@@ -1,4 +1,12 @@
-# DIO - Trilha .NET - Programação orientada a objetos
+# Resolução do desafio feito por Jorge Honorio.
+
+Foi implantado o seguinte código para resolução do desafio:  
+ - Implementação do código de classe abstrata da classe Smartphone na classe filha Nokia e Iphone.  
+ - Implementação da sobrescrita do metodo instalar aplicativo na classe Nokia e Iphone.
+ - Implementação do construto na classe Nokia e Iphone com o construto da classe Smartphone.
+ - Implementação os teste no program.cs para o celular Nokia e Iphone.
+
+# DIO - Trilha .NET - Programação orientada a objetos (README Original)
 www.dio.me
 
 ## Desafio de projeto
